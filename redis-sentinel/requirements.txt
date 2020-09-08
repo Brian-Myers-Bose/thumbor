@@ -1,0 +1,2 @@
+# git+git://github.com/Brian-Myers-Bose/prometheus@master
+# git+git://github.com/Brian-Myers-Bose/redis@master
